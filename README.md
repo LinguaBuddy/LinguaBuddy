@@ -1,12 +1,12 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0ea5e9&height=200&section=header&text=LinguaBuddy&fontSize=42&fontColor=38BDF8&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:ff7b00&height=200&section=header&text=LinguaBuddy&fontSize=42&fontColor=ff9e00&animation=twinkling" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING ANIMATION -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full-Stack+Developer;Python+%26+JavaScript+Ecosystems;ESP32+%26+Embedded+IoT+Solutions;Building+Modern%2C+Scalable+Applications" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1000&color=FF9E00&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+Full-Stack+Developer;Python+%26+JavaScript+Ecosystems;ESP32+%26+Embedded+IoT+Solutions;Building+Modern%2C+Scalable+Applications" alt="Typing Effect" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
 ---
 
 <!-- ABOUT ME / SUMMARY -->
-### ✨ About Me
+### ☕ About Me
 
 Hi there! 👋 I am **LinguaBuddy**, a passionate **Software Engineer** dedicated to building modern web applications, custom automation tools, and hardware-software integrations.
 
@@ -51,11 +51,11 @@ Hi there! 👋 I am **LinguaBuddy**, a passionate **Software Engineer** dedicate
 
 <div align="center">
   <p>
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LinguaBuddy&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8" />
-    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LinguaBuddy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LinguaBuddy&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff9e00&text_color=c9d1d9&icon_color=ff7b00" />
+    <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LinguaBuddy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ff9e00&text_color=c9d1d9" />
   </p>  
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinguaBuddy&theme=dark&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LinguaBuddy&theme=dark&hide_border=true&background=0d1117&stroke=ff7b00&ring=ff9e00&fire=ff4500&currStreakLabel=ff9e00" />
   </p>
 </div>
 
@@ -78,5 +78,5 @@ Hi there! 👋 I am **LinguaBuddy**, a passionate **Software Engineer** dedicate
 <!-- FOOTER VISITOR COUNTER -->
 <div align="center">
   <br />
-  <img src="https://komarev.com/ghpvc/?username=LinguaBuddy&color=0ea5e9&style=flat-square&label=Profile+Views+%F0%9F%91%81%EF%B8%8F" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=LinguaBuddy&color=ff7b00&style=flat-square&label=Profile+Views+%F0%9F%91%81%EF%B8%8F" alt="Visitor Counter" />
 </div>
